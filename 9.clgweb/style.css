@@ -1,0 +1,210 @@
+.a{
+    height: 96px;
+    width: 960px;
+    /* background-image: url("./html/2.png") ; */
+    /* background-size:contain ; */
+}
+.b{
+    background-color: rgb(225, 162, 43);
+    height: 110px;
+    width: 960px;
+    margin-top: 10px;
+    display:flex;
+}
+.ab{
+    background-color: #33ADDB;
+    height: 38px;
+    width: 960px;
+    margin-top: 4px;
+}
+.c{
+    /* background-color: burlywood; */
+    height: 500px;
+    width: 956px;
+    display: flex;
+    border: 2px solid black;
+    margin-top: 4px;
+    
+}
+.d{
+    background-color: #33ADDB;
+    width: 760px;
+    margin-right: 4px;
+    overflow: auto;
+    
+}
+.e{
+    
+    background-color:#ffffff;
+    width: 200px;
+}
+.f{
+    border: 2px solid black;
+    width: 196px;
+    height: 300px;
+    background-color: #33ADDB;
+    
+}
+.g{
+    border: 2px solid black;
+    width: 196px;
+    height: 90px;
+    background-color: #33ADDB;
+    margin-top: 5px; 
+}
+.h{
+    border: 2px solid black;
+    width: 199px;
+    height: 95px;
+    background-color: #33ADDB;
+    margin-top: 4px;
+}
+.i{
+    background-color:#33ADDB;
+    height: 40px;
+    width:960px;
+    margin-top: 4px;
+    display: flex;
+    justify-content: space-around;
+}
+.io{
+    margin-top: 10px;
+}
+.iobutton {
+    background-color:#33ADDB; /* Green */
+    border: none;
+    text-decoration: none;
+    display: inline-block;
+    transition-duration: 0.4s;
+    cursor: pointer;
+  }
+  .iobutton:hover{
+    background-color: #107ba2;
+  }
+  
+.j{
+    border: 2px solid black;
+    width: 960px;
+    height: 400px;
+    background-color: chartreuse;
+    display:flex;
+    margin-top: 4px;
+}
+.k{
+    /* width: 500px;
+    height: 400px; */
+}
+.ho{
+    height: 30px;
+    width: 200px;
+    border: 1px solid black;
+    background-color: #33ADDB;
+    text-align: center;
+    animation: re 5s linear 2s infinite alternate-reverse;
+    /* margin-top: 1px; */
+}
+.ho:hover{
+    background-color: blue;
+    transition: all ease-in-out 1s;
+
+}
+.ho1{
+    width: 200px;
+    height: 200px;
+    background-image: url(./ibm\ final.jpg);
+}
+.m{
+    border: 1px solid black;
+    width: 760px;
+    height: 400px;
+}
+.m1{
+    width: 760px;
+    height: 40px;
+    margin-top:4px;
+}
+.n{
+    border: 1px solid black;
+    width: 760px;
+    height: 420px;
+    background-image:url(./lah.jpg);
+}
+
+.o{
+    border: 1px solid black;
+    width: 760px;
+    height: 400px;
+}
+
+/* @keyframes re{
+    from{
+        background-color: chocolate tomato;}
+        to{background-color: crimson;}
+    }
+} */
+
+.button{
+    background: #138808;
+    color: white;
+    font-size: 12px;
+    position: relative;
+    /* text-align: center; */
+    border-radius: 20px;
+    border: 0.5px solid black;
+    padding: 10px 6px;
+    margin-top: 40px;
+    margin-left: 10px;
+
+}
+.button1{
+    background: #138808;
+    color: white;
+    font-size: 12px;
+    position: relative;
+    /* text-align: center; */
+    border-radius: 20px;
+    border: 0.5px solid black;
+    padding: 10px 6px;
+    margin-top: 10px;
+    margin-left: 60px;
+
+}
+.button2{
+    background: #138808;
+    color: white;
+    font-size: 12px;
+    position: relative;
+    /* text-align: center; */
+    border-radius: 20px;
+    border: 0.5px solid black;
+    padding: 10px 6px;
+    margin-top: 50px;
+    margin-left: 500px;
+
+}
+.button3{
+    background: #138808;
+    color: white;
+    font-size: 12px;
+    position: relative;
+    /* text-align: center; */
+    border-radius: 20px;
+    border: 0.5px solid black;
+    padding: 10px 6px;
+    margin-top: 10px;
+    margin-left: 600px;
+
+}
+.button4{
+    background: #138808;
+    color: white;
+    font-size: 12px;
+    position: relative;
+    /* text-align: center; */
+    border-radius: 20px;
+    border: 0.5px solid black;
+    padding: 10px 6px;
+    margin-top: 50px;
+    margin-left: 600px;
+
+}
